@@ -1,0 +1,39 @@
+.image img{
+    margin: 40px 60px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.user-info{
+    background-color: rgb(41, 145, 209);
+    border-radius: 20px;
+    margin: 20px 50px;
+    display: flex;
+    text-align: left;
+    padding: 10px;
+    
+}
+.text-info{
+    color: white;
+}
+.user-info:hover{
+    margin: 10px 35px;
+    transition: 0.6s;
+    padding: 30px;
+}
+.user-btn{
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color:rgb(99, 98, 97);
+    color: white;
+    border: none;
+  
+}
+.user-btn:hover{
+    cursor: pointer;
+    padding: 15px;
+    font-size: 16px;
+    background-color: gray;
+}

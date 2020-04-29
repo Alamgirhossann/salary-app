@@ -1,0 +1,21 @@
+.payment-cart{
+   color: white;
+   font-weight: 600;
+   text-align: left;
+   margin-left: 15px;
+   padding: 0px 20px 20px 20px;
+}
+.payment-btn{
+    height: 30px;
+    width: 90px;
+    background-color: rgb(107, 104, 104);
+    color: white;
+    border-radius: 10px;
+    font-size: 12px;
+    border: none;
+ 
+}
+.payment-btn:hover{
+    background-color: rgb(170, 165, 165);
+  
+}
